@@ -1,20 +1,19 @@
 {
   "drinks": [
-    { "id": 1,  "name": "에스프레소 (1샷)",        "baseCaffeineMg": 75,  "category": "coffee" },
-    { "id": 2,  "name": "아메리카노 (레귤러)",      "baseCaffeineMg": 150, "category": "coffee" },
-    { "id": 3,  "name": "아메리카노 (라지)",        "baseCaffeineMg": 210, "category": "coffee" },
-    { "id": 4,  "name": "카페라떼 (레귤러)",        "baseCaffeineMg": 110, "category": "coffee" },
-    { "id": 5,  "name": "바닐라라떼 (레귤러)",      "baseCaffeineMg": 115, "category": "coffee" },
-    { "id": 6,  "name": "콜드브루",                "baseCaffeineMg": 200, "category": "coffee" },
-    { "id": 7,  "name": "디카페인 아메리카노",      "baseCaffeineMg": 15,  "category": "coffee" },
+    { "id": 1,  "name": "에스프레소",        "baseCaffeineMg": 75,  "category": "coffee" },
+    { "id": 2,  "name": "아메리카노",      "baseCaffeineMg": 150, "category": "coffee" },
+    { "id": 3,  "name": "카페라떼",        "baseCaffeineMg": 110, "category": "coffee" },
+    { "id": 4,  "name": "바닐라라떼",      "baseCaffeineMg": 115, "category": "coffee" },
+    { "id": 5,  "name": "콜드브루",                "baseCaffeineMg": 200, "category": "coffee" },
+    { "id": 6,  "name": "디카페인 아메리카노",      "baseCaffeineMg": 15,  "category": "coffee" },
 
-    { "id": 8,  "name": "녹차 (핫)",               "baseCaffeineMg": 30,  "category": "tea" },
-    { "id": 9,  "name": "홍차 (핫)",               "baseCaffeineMg": 50,  "category": "tea" },
-    { "id": 10, "name": "말차라떼",                 "baseCaffeineMg": 60,  "category": "tea" },
+    { "id": 7,  "name": "녹차",               "baseCaffeineMg": 30,  "category": "tea" },
+    { "id": 8,  "name": "홍차",               "baseCaffeineMg": 50,  "category": "tea" },
+    { "id": 9, "name": "말차라떼",                 "baseCaffeineMg": 60,  "category": "tea" },
 
-    { "id": 11, "name": "탄산음료 (콜라 355ml)",   "baseCaffeineMg": 35,  "category": "softdrink" },
-    { "id": 12, "name": "에너지 드링크 250ml",      "baseCaffeineMg": 160, "category": "energy" },
-    { "id": 13, "name": "캔커피 (스위트)",          "baseCaffeineMg": 90,  "category": "coffee" },
-    { "id": 14, "name": "초콜릿 음료 (핫초코)",     "baseCaffeineMg": 20,  "category": "etc" }
+    { "id": 10, "name": "탄산음료",   "baseCaffeineMg": 35,  "category": "softdrink" },
+    { "id": 11, "name": "에너지 드링크",      "baseCaffeineMg": 160, "category": "energy" },
+    { "id": 12, "name": "캔커피",          "baseCaffeineMg": 90,  "category": "coffee" },
+    { "id": 13, "name": "초콜릿 음료",     "baseCaffeineMg": 20,  "category": "etc" }
   ]
 }
